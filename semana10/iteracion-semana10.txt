@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Permitir registrar una incidencia.
+2. Enviar una alerta al coordinador mediante Telegram.
+
+¿Por qué son las más importantes?
+Porque primero se necesita que los ciudadanos puedan registrar sus reportes y luego notificar al coordinador para que haga seguimiento oportuno.
+
+¿Qué significa que una tarea esté terminada?
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada en Git.
